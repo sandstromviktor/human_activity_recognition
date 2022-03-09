@@ -1,0 +1,2 @@
+# human_activity_recognition
+Performing human activity classification
